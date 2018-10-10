@@ -9,6 +9,15 @@
 * **Bring what you need to connect a micro-USB device to your laptop** (e.g. USB-C to USB dongle and a micro-USB cable)
 * Pre-install the needed driver (see below)
 
+## At the Activity
+
+We will start shortly after 11:30 with a quick welcome, an introduction to the project, the equipment we will be using, the workshops that will be available, and what you should expect to accomplish while you are there.  
+
+After the introduction, lunch will be served, and you'll be able to settle in with your team and start playing with the equipment we will have available.
+
+Throughout the afternoon, you will be free to tinker, attend various short workshops, ask questions, and mingle with each other.
+
+
 ## Hardware Information
 
 We will be building projects with an Arduino compatible micro-controller, with a lot of other stuff you can tinker with to learn some basic skills.
