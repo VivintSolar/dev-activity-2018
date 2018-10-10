@@ -41,5 +41,6 @@ Once you have the IDE installed, [follow these instructions](http://www.electron
 Do not disturb timer project
 
 Here is an example of the circuit we will be building for the do-not-disturb timer project:
-[The timer circuit](/timer.png)
+
+![The timer circuit](/timer.png)
 
