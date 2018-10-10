@@ -35,7 +35,7 @@ There are various ways to write and load code onto an ESP8266.  I recommend star
 Once you have the IDE installed, [follow these instructions](http://www.electronicwings.com/nodemcu/getting-started-with-nodemcu-using-arduino-ide) to get set up to talk to your NodeMCU.
 
 
-##Do not disturb timer project
+## Do not disturb timer project
 
 Here is an example of the circuit we will be building for the do-not-disturb timer project:
 
